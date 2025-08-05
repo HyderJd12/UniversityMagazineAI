@@ -1,0 +1,2 @@
+# UniversityMagazineAI
+FYP
